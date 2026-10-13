@@ -7,7 +7,7 @@ Kuralagam is a digital platform dedicated to **Thirukkural**, the timeless Tamil
 
 🔗 **Repository:** https://github.com/heymovox/Thirukural
 
-🌐 **API / Deployment:** https://thirukural-server.vercel.app
+🌐 **API / Deployment:** https://thirukural.heymovox.com
 
 ---
 
